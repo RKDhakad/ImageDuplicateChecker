@@ -35,8 +35,8 @@ Replace <path_to_new_image> with the actual path to the new image you want to ch
 - Directory Handling:
    The 'images' directory is created if it doesn't exist.
 
--Copy to 'images' Directory:
+- Copy to 'images' Directory:
    If the image is determined to be new, it is copied to the 'images' directory for further processing.
 
--Hash Pool Update:
+- Hash Pool Update:
    The script updates the hash pool with the new image hash and stores it in the 'hash_pool.txt' file.
