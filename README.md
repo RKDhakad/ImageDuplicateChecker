@@ -19,7 +19,7 @@ This Python script checks whether a new image is a duplicate or similar to exist
 
    ```bash
    git clone https://github.com/RKDhakad/ImageDuplicateChecker.git
-   cd image-duplicate-checker
+   cd ImageDuplicateChecker
    python main.py <path_to_new_image>
 
 Replace <path_to_new_image> with the actual path to the new image you want to check.
