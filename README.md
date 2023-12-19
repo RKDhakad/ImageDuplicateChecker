@@ -7,7 +7,7 @@ This Python script checks whether a new image is a duplicate or similar to exist
 
 ## Author
 
-- **Author:** Ravi Dhakad
+- **Author:** RKDhakad
 
 ## Prerequisites
 
